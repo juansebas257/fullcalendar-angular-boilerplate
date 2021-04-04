@@ -1,0 +1,17 @@
+::ng-deep .fc {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+::ng-deep .fc .fc-button-primary {
+    box-shadow: 0 3px 1px -2px rgb(0 0 0 / 20%), 0 2px 2px 0 rgb(0 0 0 / 14%), 0 1px 5px 0 rgb(0 0 0 / 12%);
+    border-color: #3f51b5!important;
+    background-color: #3f51b5!important;
+}
+
+::ng-deep .fc .fc-button-primary:hover {
+    background-color: #324191!important;
+}
+
+::ng-deep .fc .fc-button-active {
+    background-color: #324191!important;
+}
